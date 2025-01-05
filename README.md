@@ -6,7 +6,6 @@
 
 </div>
 
-<div align="center">
 
 ## A little bit about me...
 
@@ -20,13 +19,3 @@ const danil = {
                    },
 }
 ```
-
-</div>
-
-<div align="center">
-  
-## 💻 My Tech Stack:
-
-[![Express, Angular, Node.js, JavaScript, TypeScript, AWS, RxJS](https://skillicons.dev/icons?i=express,angular,nodejs,js,ts,aws,rxjs)](https://skillicons.dev)
-
-</div>
