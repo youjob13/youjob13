@@ -11,8 +11,9 @@ const danil = {
   code: [Javascript, Typescript, HTML, CSS],
   technologies: {
     frontend: [Angular, Redux, Storybook],
-    backend: [Express, NodeJS, NestJS],
-    devOps: [Docker🐳, CI/CD, Jenkins, GitHub Actions],
+    backend: [Express, NodeJS, MongoDB, PostgreSQL],
+    otherTools: [RxJS, Jest / Mocha / Jasmine, Docker],
+    devOps: [CI/CD (Jenkins, GitHub Actions)],
     cloudServices: {
       aws: [EC2, EKS, ECR, S3, Lambda, SQS, CloudWatch, API Gateway],
     },
